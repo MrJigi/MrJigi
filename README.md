@@ -56,7 +56,11 @@
 ## 📈 GitHub Stats
 ![Evaldas' GitHub Stats](https://github-readme-stats.vercel.app/api?username=MrJigi&show_icons=true&theme=tokyonight)
 <br/>
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrJigi&theme=tokyonight)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrJigi&theme=tokyonight)](https://git.io/streak-stats)<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MrJigi&show_icons=true&locale=en&layout=compact&theme=tokyonight)
+
+
 [![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrJigi)](https://github.com/MrJigi/github-readme-stats)
 
 ## 📫 Let's Connect!
