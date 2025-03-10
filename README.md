@@ -1,7 +1,8 @@
 # Hello there my name is Evaldas
-# I'm a graduate Software Engineer student from Fontys University of Applied Science
+
 
 ## ⚡ About Me
+- 👩‍🎓 Graduate Software Engineer student from Fontys University of Applied Science
 - 🔧 Java Developer, aspiring Full-Stack Developer
 - 💡 Passionate about clean code and Software Engineering
 - 🌍 Interested in Cloud Computing, Microservices, and DevOps
