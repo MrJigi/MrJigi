@@ -58,10 +58,6 @@
 <br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MrJigi&theme=tokyonight)](https://git.io/streak-stats)<br/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=MrJigi&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-
-
-[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MrJigi)](https://github.com/MrJigi/github-readme-stats)
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evaldas-drasutis/)
